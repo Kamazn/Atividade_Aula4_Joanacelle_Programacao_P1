@@ -1,0 +1,14 @@
+1. Julgue as sentenças em True ou False, depois tirem a prova na prática:
+a) (2 > 3) and (5 != 0) - FALSE
+b) (4 < 10) and (3 == 3) - TRUE
+c) (7 >= 7) or (2 > 5) - TRUE
+d) not (3 < 1) and (6 == 6) - TRUE
+e) (8 != 8) or (10 > 2) - TRUE
+f) not (5 > 3 and 2 < 1) - TRUE
+g) (9 > 5) and not (4 == 4) - FALSE
+h) (6 < 2) or (3 != 3) or (1 == 1) - TRUE
+i) not (2 > 1) or (5 >= 5 and 3 < 4) - TRUE
+j) (10 != 10) and (not (2 < 3) or (8 > 1)) - FALSE
+k) (10 > 5) and ("a" == "a") - TRUE
+l) ("python" != "Python") or (3 * 2 == 6) - TRUE
+m) (4 + 1 == 6) or ("chat" == "chat") - TRUE
